@@ -1,5 +1,7 @@
 $(document).ready(function() {
-  $('.featured').magnificPopup({type:'image'});
+  $('.magnific').magnificPopup({
+	  type:'image'
+});
 });
 
 (function($) {
