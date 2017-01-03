@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   A cross OS, flexible file explorer. 
   A perfect alternative to macOS finder but for Windows and Linux as well.
-baseurl: "/file-explorer-landing" # the subpath of your site, e.g. /blog/
-url: "https://desduvauchelle.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://explorer.hashup.io" # the base hostname & protocol for your site
 twitter_username: desduvauchelle
 github_username:  desduvauchelle
 
