@@ -1,3 +1,7 @@
+$(document).ready(function() {
+  $('.featured.image').magnificPopup({type:'image'});
+});
+
 (function($) {
 
 	skel.init({
@@ -120,7 +124,5 @@
 			}
 
 	});
-
-	$('.featured.image').magnificPopup({type:'image'});
-
 })(jQuery);
+
