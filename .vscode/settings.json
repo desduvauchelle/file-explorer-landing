@@ -3,8 +3,8 @@
     // For linting LESS/CSS
     "csscomb.formatOnSave": true,
     // For beautify 
-    "editor.formatOnSave": true,
-    "beautify.formatOnSave": true,
+    "editor.formatOnSave": false,
+    "beautify.formatOnSave": false,
     "beautify.language": {
         "js": {
             "type": [
@@ -14,16 +14,9 @@
                 ".jshintrc.json",
                 ".jsbeautify"
             ]
-        }
-        // "css": [
-        //     "css",
-        //     "scss",
-        //     "less"
-        // ],
-        // "html": [
-        //     "htm",
-        //     "html"
-        // ]
+        },
+        "css": [],
+        "html": []
     },
     "window.zoomLevel": 0
 }
