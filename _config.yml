@@ -1,14 +1,13 @@
 # Site settings
-title: Twenty Blog
+title: File Explorer
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  A cross OS, flexible file explorer. 
+  A perfect alternative to macOS finder but for Windows and Linux as well.
+baseurl: "/file-explorer-landing/" # the subpath of your site, e.g. /blog/
+url: "https://desduvauchelle.github.io" # the base hostname & protocol for your site
+twitter_username: desduvauchelle
+github_username:  desduvauchelle
 
 # Build settings
 markdown: kramdown
