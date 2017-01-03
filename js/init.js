@@ -1,6 +1,8 @@
 $(document).ready(function() {
-  $('.magnific').magnificPopup({
+  $('.magnific-container').magnificPopup({
+    delegate: 'a.magnific', // child items selector, by clicking on it popup will open
     type: 'image'
+  // other options
   });
 });
 
